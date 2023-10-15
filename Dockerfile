@@ -25,7 +25,7 @@ CMD ["catalina.sh", "run"]
 # copy the .war file to the `webapps` directory in tomcat:10.1.13-jdk17
 # cp target/a23-webpage.war tomcat:10.1.13-jdk17:/usr/local/tomcat/webapps/
 # Start the Tomcat container
-# EveryThing looks good
+# EveryThing looks good edit
 
 
 # docker-compose up
